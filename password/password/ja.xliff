@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="password/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.0" build-num="8A218a"/>
+    </header>
+    <body/>
+  </file>
+  <file original="password/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.0" build-num="8A218a"/>
+    </header>
+    <body>
+      <trans-unit id="0o3-lD-jEr.normalTitle">
+        <source>login</source>
+        <target>ログイン</target>
+        <note>Class = "UIButton"; normalTitle = "login"; ObjectID = "0o3-lD-jEr";</note>
+      </trans-unit>
+      <trans-unit id="B85-u2-D3x.text">
+        <source>write password</source>
+        <target>登録するパスワード</target>
+        <note>Class = "UILabel"; text = "write password"; ObjectID = "B85-u2-D3x";</note>
+      </trans-unit>
+      <trans-unit id="BVI-q8-82o.text">
+        <source>what movie did you see in first?</source>
+        <target>初めて見た映画は?</target>
+        <note>Class = "UILabel"; text = "what movie did you see in first?"; ObjectID = "BVI-q8-82o";</note>
+      </trans-unit>
+      <trans-unit id="BkN-8X-cD9.normalTitle">
+        <source>resister</source>
+        <target>登録</target>
+        <note>Class = "UIButton"; normalTitle = "resister"; ObjectID = "BkN-8X-cD9";</note>
+      </trans-unit>
+      <trans-unit id="Cf8-gt-VKG.normalTitle">
+        <source>register password</source>
+        <target>パスワードを登録する</target>
+        <note>Class = "UIButton"; normalTitle = "register password"; ObjectID = "Cf8-gt-VKG";</note>
+      </trans-unit>
+      <trans-unit id="Cl3-E9-e2d.normalTitle">
+        <source>look password</source>
+        <target>パスワードを見る</target>
+        <note>Class = "UIButton"; normalTitle = "look password"; ObjectID = "Cl3-E9-e2d";</note>
+      </trans-unit>
+      <trans-unit id="KnZ-c6-Fsb.normalTitle">
+        <source>back</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "back"; ObjectID = "KnZ-c6-Fsb";</note>
+      </trans-unit>
+      <trans-unit id="OkX-KO-O3s.normalTitle">
+        <source>back</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "back"; ObjectID = "OkX-KO-O3s";</note>
+      </trans-unit>
+      <trans-unit id="RwW-y1-3sg.text">
+        <source>what the best music do you think? </source>
+        <target>あなたの人生で一番好きな曲は?</target>
+        <note>Class = "UILabel"; text = "what the best music do you think? "; ObjectID = "RwW-y1-3sg";</note>
+      </trans-unit>
+      <trans-unit id="SqF-yo-OXn.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "SqF-yo-OXn";</note>
+      </trans-unit>
+      <trans-unit id="Vms-dm-OtC.text">
+        <source>what password do you save?</source>
+        <target>なんのパスワードですか</target>
+        <note>Class = "UILabel"; text = "what password do you save?"; ObjectID = "Vms-dm-OtC";</note>
+      </trans-unit>
+      <trans-unit id="jOT-MM-al9.text">
+        <source>what name your first friend is?</source>
+        <target>あなたの初めての友達の名前は?</target>
+        <note>Class = "UILabel"; text = "what name your first friend is?"; ObjectID = "jOT-MM-al9";</note>
+      </trans-unit>
+      <trans-unit id="kFx-Hf-zFD.text">
+        <source>what is your elementary school?</source>
+        <target>あなたの小学校の名前は?</target>
+        <note>Class = "UILabel"; text = "what is your elementary school?"; ObjectID = "kFx-Hf-zFD";</note>
+      </trans-unit>
+      <trans-unit id="mOB-qw-GFD.text">
+        <source>what comic did you see in first? </source>
+        <target>初めて見た漫画の名前は? </target>
+        <note>Class = "UILabel"; text = "what comic did you see in first? "; ObjectID = "mOB-qw-GFD";</note>
+      </trans-unit>
+      <trans-unit id="nJr-pj-IbP.normalTitle">
+        <source>save</source>
+        <target>登録</target>
+        <note>Class = "UIButton"; normalTitle = "save"; ObjectID = "nJr-pj-IbP";</note>
+      </trans-unit>
+      <trans-unit id="oUV-kZ-Hcs.normalTitle">
+        <source>edit</source>
+        <target>編集</target>
+        <note>Class = "UIButton"; normalTitle = "edit"; ObjectID = "oUV-kZ-Hcs";</note>
+      </trans-unit>
+      <trans-unit id="t5y-R6-76g.normalTitle">
+        <source>back</source>
+        <target>戻る</target>
+        <note>Class = "UIButton"; normalTitle = "back"; ObjectID = "t5y-R6-76g";</note>
+      </trans-unit>
+      <trans-unit id="zAc-fM-qct.text">
+        <source>                 you need to resister password.</source>
+        <target>                パスワードを登録してください</target>
+        <note>Class = "UILabel"; text = "                 you need to resister password."; ObjectID = "zAc-fM-qct";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="password/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.0" build-num="8A218a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="password/Localizable.strings" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.0" build-num="8A218a"/>
+    </header>
+    <body>
+      <trans-unit id="password is correct">
+        <source>password is correct</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="password is incorrect">
+        <source>password is incorrect</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="what comic did you see in first?">
+        <source>what comic did you see in first?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="what is your elementary school?">
+        <source>what is your elementary school?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="what movie did you see in first?">
+        <source>what movie did you see in first?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="what name your first friend is?">
+        <source>what name your first friend is?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="what the best music do you think? ">
+        <source>what the best music do you think? </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="passwordTests/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.0" build-num="8A218a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="passwordUITests/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.0" build-num="8A218a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

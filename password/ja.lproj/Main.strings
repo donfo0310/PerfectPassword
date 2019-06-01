@@ -1,0 +1,54 @@
+/* Class = "UIButton"; normalTitle = "login"; ObjectID = "0o3-lD-jEr"; */
+"0o3-lD-jEr.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "write password"; ObjectID = "B85-u2-D3x"; */
+"B85-u2-D3x.text" = "登録するパスワード";
+
+/* Class = "UILabel"; text = "what movie did you see in first?"; ObjectID = "BVI-q8-82o"; */
+"BVI-q8-82o.text" = "初めて見た映画は?";
+
+/* Class = "UIButton"; normalTitle = "resister"; ObjectID = "BkN-8X-cD9"; */
+"BkN-8X-cD9.normalTitle" = "登録";
+
+/* Class = "UIButton"; normalTitle = "register password"; ObjectID = "Cf8-gt-VKG"; */
+"Cf8-gt-VKG.normalTitle" = "パスワードを登録する";
+
+/* Class = "UIButton"; normalTitle = "look password"; ObjectID = "Cl3-E9-e2d"; */
+"Cl3-E9-e2d.normalTitle" = "パスワードを見る";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "KnZ-c6-Fsb"; */
+"KnZ-c6-Fsb.normalTitle" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "OkX-KO-O3s"; */
+"OkX-KO-O3s.normalTitle" = "戻る";
+
+/* Class = "UILabel"; text = "what the best music do you think? "; ObjectID = "RwW-y1-3sg"; */
+"RwW-y1-3sg.text" = "あなたの人生で一番好きな曲は?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SqF-yo-OXn"; */
+"SqF-yo-OXn.text" = "Label";
+
+/* Class = "UILabel"; text = "what password do you save?"; ObjectID = "Vms-dm-OtC"; */
+"Vms-dm-OtC.text" = "なんのパスワードですか";
+
+/* Class = "UILabel"; text = "what name your first friend is?"; ObjectID = "jOT-MM-al9"; */
+"jOT-MM-al9.text" = "あなたの初めての友達の名前は?";
+
+/* Class = "UILabel"; text = "what is your elementary school?"; ObjectID = "kFx-Hf-zFD"; */
+"kFx-Hf-zFD.text" = "あなたの小学校の名前は?";
+
+/* Class = "UILabel"; text = "what comic did you see in first? "; ObjectID = "mOB-qw-GFD"; */
+"mOB-qw-GFD.text" = "初めて見た漫画の名前は? ";
+
+/* Class = "UIButton"; normalTitle = "save"; ObjectID = "nJr-pj-IbP"; */
+"nJr-pj-IbP.normalTitle" = "登録";
+
+/* Class = "UIButton"; normalTitle = "edit"; ObjectID = "oUV-kZ-Hcs"; */
+"oUV-kZ-Hcs.normalTitle" = "編集";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "t5y-R6-76g"; */
+"t5y-R6-76g.normalTitle" = "戻る";
+
+/* Class = "UILabel"; text = "                 you need to resister password."; ObjectID = "zAc-fM-qct"; */
+"zAc-fM-qct.text" = "                パスワードを登録してください";
+
